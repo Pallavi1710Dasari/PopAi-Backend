@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "iconic-era-430404-f4",
+    "private_key_id": "15a2b824ffdf85c2c5da58e63b4ed698d9af7055",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8Dq+8x48eGsLb\nUJc0Lof3bMygm2xJ1FVwPpdwgThN63NFjtJn0DrDZAZEa1Qt2sMjuKOdey5tpIMc\nEv3iuAkvt7v1/sMsMh/naMAb315mnHdK6LhhvK7qTVv2pZDh4flO3NwoiLN/qV8Z\nQn3xPX6hwA9IrHkzn+Feb4f8nPRb1C4DRWH9LD4I8M18wnbCfkeeKlFcf798g5tr\nV33+eotyePVWHlpUbkh8t/rCiamHOu3VJwqmJGVRpYnFfDG1z/8tbgAggNx/Yf9/\nAHVzr3o6fQQ10i209015FugXRiySLTgTSDlVA8t0NAH5WP4fDlTDl44n/yc2Ax1l\n3wkV/Ef/AgMBAAECggEADN+6gyNsNkThuw7Y0w8uaq9NkN8i+ijpkm4OgvqtppPs\nR8I/wDCenTqvPSbV0+/KdRsSRFkm9AWTnivkqo0rv9MFsJD4voFN8tMWd7ICbebf\nOccVvEck+FBEb+2krfoAzbfL8JBvLVmkc3+8THQHw734reJ0x6Z10Le06QO7rL+K\n/CNIchhOgDuIrevINchHDOjtV/QIqHPCTfJGEBLl6Eh89MJPJs1Z2CiOnD+ha7aG\nXm5dgZhEvid36CKle/D96amkRAceTct+RdhyaoX07xc6sEkQV/C7Fgp0Er02HTct\niJ/2iddwp0HebhMvxXV2eA+I1MzjRld+SLDEMwlp1QKBgQD6HtoUojbJ630OLYv9\nJMl/wfQ0v+iVime3AXmmVNDEUkoQwBZPxbQwthZSzTY9HvtjrAA+DL8SXqZUyT+q\n7vP93tqgmIwTV9ca8suNEoGD1pTya8RsOKzlnyq9dHfChu76EOedJlyxEMZpiFi9\naTWhbD8fgFNQindGnVAkgGi5RQKBgQDAeluTzYyvkcRg0g3BVj04iwtx5RBTFjuT\nEAywL5XdbQVBAl+TlLfUpOoitKJxJvIwqh9bQGxoou34qrkcPZpPCt7svr2Pq+Bd\naPzyBkL2h7seZhHxPpq+pxRqeaZWgUikNxKSNTdEAKCYs44OShqNTy+GvmWtzU99\npSZHkPK2cwKBgQDk6Y+WCtAyBQAzFaRlTmHMN2qVTH5FPqKlbwgzHrTiuJ1oryS8\nZakAW+Yaag4V6mERW73tDCVjXpTETFukyYUs9+UHzhWFLoOD+moo9qLqUl2HcPIY\nSdaTYRTwx8NDmdLlsssHnLCArWWp+EufLscSscsjvYKC1/dJ/Xf3sD4oMQKBgQCn\nG9RUT5p8d976fIRqvffrFnU6TjjNGjlg5gdOFBJWKyfrmCbo165+1SteNFvwR3Lw\nI1OUAyvb8NERGxAZ37YQOAzxmGy1xvDFyLgLXLpYleE0dEPRopvxONg11SZAZoBt\n6k6aV8+Cn9TOnt2PtHC3DO/jWXyn19/S40aHzeWb1wKBgHG7UeXBcl+YkU7Qzc8i\nElAUxn3s4ELCIvqpSOIfURdA4JNixeq0yccp/mIe+/iMujDVwsREn2TGjquIGoDd\nSCiJUwFmeH8wl1iiS/u5pHaeYQ05bXsYGkOohds8LeUj22+9WP6AafCCUNEBbR0B\nzYv/3hGUT3IU+Xlv70DRk2Eq\n-----END PRIVATE KEY-----\n",
+    "client_email": "neuralnineserviceaccount123@iconic-era-430404-f4.iam.gserviceaccount.com",
+    "client_id": "100214894341366600176",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/neuralnineserviceaccount123%40iconic-era-430404-f4.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  

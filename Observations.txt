@@ -1,0 +1,7 @@
+DATE : - 6th July
+
+1. Add the option of accepting url as well from the user.
+2. added but the model got overloaded 
+3. could not use google cloud vision as it is asking for debit card details 
+4. Reseachers need references and also it will good if we can help in removing plagirism
+5. For students 
